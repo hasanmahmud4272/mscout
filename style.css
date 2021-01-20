@@ -1,0 +1,167 @@
+* {
+  
+  margin: 0;
+  padding: 0;
+}
+body {
+  background:#2C3E50 ;
+  width:80%;
+  margin: auto;
+}
+p {
+  color:white;
+}
+header {
+  background:#080899;
+  height: 120px;
+  padding: 17px;
+}
+.header_left {
+  width: 90%;
+  float: left;
+
+}
+.header_left img {
+  width: 100px;
+  height: 100px;
+  float: left;
+  
+  
+}
+.header_left div {
+  display:inline-block;
+}
+.header_left div h1 {
+  color:#ffffff;
+  text-align: center;
+  text:
+}
+
+.header_left div h3 {
+  color:#ffffff;
+ text-align: center;
+}
+
+
+.header_right {
+  width: 10%;
+  float: left;
+  text-align: right;
+  color:white;
+  text-decoration:none;
+ 
+
+}
+.header_right div {
+  text-align: left;
+  color:white;
+ text-decoration:none;
+    
+  
+}
+.nav{
+    display: flex;
+     
+}
+.nav-list{
+    width:auto;
+    display: flex;
+    align-items: center;
+    background-color:#080899;
+ 
+}
+.nav-list li{
+    list-style: none;
+    padding: 20px 25px;
+    
+}
+.nav-list a{
+    text-decoration: none;
+    color:white;
+    
+}
+
+.nav-list a:hover{
+    text-decoration: none;
+    color:yellow;
+    
+}
+
+ marquee{
+	background-color: white;
+	color:red;
+	 padding: 24px 28px;
+	 
+}
+p{
+	background-color:white;
+	color:black;
+	
+}
+    h2{
+		background-color:white;
+		color:blue;
+		
+	}
+    
+}
+hr{
+   border-radius:10px;  
+}
+ .scout_right div{
+	 width:48%;
+	 height:55%;
+	 background-color:#F0B27A;
+	 color:black;
+	 float:left;
+	 padding:10px;
+ }
+ 
+  .scout_left div {
+	 width:48%;
+	 height:55%;
+	 background-color:#080899;
+	 color:white;
+	 float:left;
+	 padding:10px;
+	 
+ }
+ 
+ div.ex1 {
+	width: 300px;
+	padding: 50px;
+	background-color: lightblue;
+	width:91%;
+}
+h3{
+	
+	backgroun-color:blue;
+	color:white;
+}
+
+div.ss{
+	background-color:lightblue;
+	padding:10px;
+}
+
+div.aca{
+	background-color:lightblue;
+	padding:10px;
+	text-decoration:none;
+}
+ div.fca{
+	background-color:lightblue;
+	padding:10px;
+	text-decoration:none;
+}
+
+div.cl{
+	background-color:lightblue;
+	padding:10px;
+	text-decoration:none;
+}
+div.on{
+	background-color:lightblue;
+	padding:10px;
+	
+}
